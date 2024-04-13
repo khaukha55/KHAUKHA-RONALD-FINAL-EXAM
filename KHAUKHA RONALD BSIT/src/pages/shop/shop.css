@@ -1,0 +1,15 @@
+.shop {
+  padding: 3rem;
+}
+h2, .tip {
+  text-align: center;
+}
+.tip {
+  font-size: 1.5rem;
+}
+.product-list-wrapper {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
